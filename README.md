@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/jrowen/rhandsontable.svg?branch=master)](https://travis-ci.org/jrowen/rhandsontable)
 
-An [`htmlwidgets`](http://www.htmlwidgets.org/) implementation of [Handsontable.js](http://http://handsontable.com/).  Per the website:
+An [`htmlwidgets`](http://www.htmlwidgets.org/) implementation of [Handsontable.js](http://handsontable.com/).  Per the website:
 
 *Handsontable is a minimalist Excel-like data grid editor for HTML & JavaScript*
 
